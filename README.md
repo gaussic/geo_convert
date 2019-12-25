@@ -1,6 +1,6 @@
 # geo_convert
 
-Geolocataion converting between WGS84, BD09 and GCJ02.
+Geolocataion conversion between WGS84, BD09 and GCJ02.
 
 WGS84 / BD09 / GCJ02 / MapBar 经纬度坐标互转。
 
