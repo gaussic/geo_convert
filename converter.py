@@ -1,7 +1,7 @@
 # coding: utf-8
 
 """
-Geolocataion converting between WGS84, BD09 and GCJ02.
+Geolocataion convertion between WGS84, BD09 and GCJ02.
 WGS84 / BD09 / GCJ02 / MapBar 经纬度坐标互转。
 
 - WGS84: GPS coordinates for Google Earth (GPS坐标，谷歌地球使用)
